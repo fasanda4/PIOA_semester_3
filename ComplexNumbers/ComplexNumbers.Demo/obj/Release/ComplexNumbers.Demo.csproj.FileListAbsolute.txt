@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Release\ComplexNumbers.Demo.exe
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Release\ComplexNumbers.Demo.pdb
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Release\ComplexNumbers.dll
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Release\ComplexNumbers.pdb
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.ComplexCalculatorForm.resources
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.Properties.Resources.resources
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexN.592CC499.Up2Date
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.exe
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Release\ComplexNumbers.Demo.pdb

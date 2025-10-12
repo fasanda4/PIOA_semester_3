@@ -2,6 +2,7 @@ C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Debug\ComplexN
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Debug\ComplexNumbers.Demo.pdb
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Debug\ComplexNumbers.dll
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Debug\ComplexNumbers.pdb
+C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\bin\Debug\ComplexNumbers.xml
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Debug\ComplexNumbers.Demo.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Debug\ComplexNumbers.Demo.ComplexCalculatorForm.resources
 C:\Users\user\source\repos\ComplexNumbers\ComplexNumbers.Demo\obj\Debug\ComplexNumbers.Demo.Properties.Resources.resources
