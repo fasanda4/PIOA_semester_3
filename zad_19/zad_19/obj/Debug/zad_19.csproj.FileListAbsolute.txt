@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\zad_19\zad_19\bin\Debug\zad_19.exe
+C:\Users\user\source\repos\zad_19\zad_19\bin\Debug\zad_19.pdb
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.Properties.Resources.resources
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.Resource1.resources
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.csproj.GenerateResource.cache
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.exe
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.pdb
+C:\Users\user\source\repos\zad_19\zad_19\bin\Debug\Data\cities.txt
+C:\Users\user\source\repos\zad_19\zad_19\obj\Debug\zad_19.WordApp.resources
